@@ -1,2 +1,0 @@
-# Warning!
-In order to run the application properly use the data file that followed in this project. Otherwise make sure that boat types starts with capital letter and adding owner's id in the end. e.g. "BOAT:apollo1:Sailboat:20:4:lkd432" and make sure that there is no empty lines in the file.
